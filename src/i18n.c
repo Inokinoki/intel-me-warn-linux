@@ -12,12 +12,10 @@
 
 i18n_info i18n_map[] = {
     // Must be first, used as default
-    {"en_US", "Activate "SYSTEM_NAME, "Go to Settings to activate " SYSTEM_NAME "." },
-    {"zh_CN", "激活 "SYSTEM_NAME, "转到“设置”以激活 "SYSTEM_NAME"。" },
-    {"zh_TW", "啟用 "SYSTEM_NAME, "移至[設定]以啟用 "SYSTEM_NAME"。" },
-    {"zh_HK", "啟用 "SYSTEM_NAME, "移至[設定]以啟用 "SYSTEM_NAME"。" },
-    {"ru_RU", "Активация "SYSTEM_NAME, "Чтобы активировать "SYSTEM_NAME",\nперейдите в раздел \"Параметры\"." },
-    {"ja_JP", SYSTEM_NAME"のライセンス認証", "設定を開き、" SYSTEM_NAME "のライセンス認証を行ってください" },
+    {"en_US", "You might be a victim of Intel® ME™", "Use Open-Source hardware: Secure, Stable, Honor™." },
+    {"zh_CN", "您可能是 Intel® ME™ 的受害者", "使用开源硬件：安全，稳定，荣耀™。" },
+    {"zh_TW", "您可能是 Intel® ME™ 的受害者", "使用開源硬件：安全，穩定，榮耀™。" },
+    {"zh_HK", "您可能是 Intel® ME™ 的受害者", "使用開源硬件：安全，穩定，榮耀™。" },
     {NULL, NULL, NULL }
 };
 
